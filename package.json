@@ -1,0 +1,16 @@
+{
+  "name": "developing-a-node-app-with-mongo-and-pdf-generator-in-vs-code-in-a-container",
+  "version": "1.0.0",
+  "description": "Blog Post Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Jones (chris@c-j.tech)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pdfkit": "^0.11.0"
+  }
+}
